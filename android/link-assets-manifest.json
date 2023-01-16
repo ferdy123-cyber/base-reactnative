@@ -1,0 +1,133 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inter-Black.ttf",
+      "sha1": "ff2d9fdf17ab9adfd7cd41a75ef0495f11d27b56"
+    },
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "114827cbea95681eee9d877b0b1ab0515d5f3b69"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "0a6cf7f44c9be40bd1179af91ed3589b534e2642"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "9b79bf395137be66b2c17acec56c4915e10a12f1"
+    },
+    {
+      "path": "assets/fonts/Inter-Light.ttf",
+      "sha1": "791a657bf537ff4272bae72f43c1c9981ab4d623"
+    },
+    {
+      "path": "assets/fonts/Inter-Medium.ttf",
+      "sha1": "17ec5016a5f2b2ea4f27f7bce1df4192d3590161"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "077f819e60120b1ded3d5c5d8a23b8b53e12ec17"
+    },
+    {
+      "path": "assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "29d9db84af04e729a01e0bb076c0afdf723e8bc5"
+    },
+    {
+      "path": "assets/fonts/Inter-Thin.ttf",
+      "sha1": "2534deaee8e837f29f2e6533f1792efe62fd27d6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Black.ttf",
+      "sha1": "fca130f21601346cce37bb8a9526ff01af66d912"
+    },
+    {
+      "path": "assets/fonts/Montserrat-BlackItalic.ttf",
+      "sha1": "50ca0660179c28c31ef1debc55506a1eab366446"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-BoldItalic.ttf",
+      "sha1": "ed5e533b6571e33adb6d01298cb8d1a5a2466657"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "1914bc1981e6ceceadb2f6d72455b4e89e04965c"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBoldItalic.ttf",
+      "sha1": "49758a0ea59fe7f82c639a385a2bacf3d4de3398"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "7c594b126941460bd2f3b47097fd6222f52277e7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "fbbb972b616c3b84d99976ddf84b6fecdeb4c7ca"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "4ee8f07c7414009645d03d87cd72df15658fe9f4"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Light.ttf",
+      "sha1": "6f21894a80049259ef71fcba135218695b41b67a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-LightItalic.ttf",
+      "sha1": "8e980f76a35675acd586f829dd2ae8d002dd97d6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "assets/fonts/Montserrat-MediumItalic.ttf",
+      "sha1": "8b2c464e42f07fc307fddb9c58d202ecff19be2a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "51626902f9f2b0aa24b235bb68b2640622f156b9"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "8c871991960f520a31635f95be6c346b659e2c8c"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ThinItalic.ttf",
+      "sha1": "f7d887fc6b50157081fd60082d20339c433f9955"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Bold.ttf",
+      "sha1": "8727a6ae26c6646a7f25bfe6560e19c9265ea87c"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Light.ttf",
+      "sha1": "739d87992cf1cd96cff0c9c32e40927385a38146"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Medium.ttf",
+      "sha1": "48d202c7a215914264064dc27f6a8cd77ebe3036"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Regular.ttf",
+      "sha1": "6eebfcb02f142c6e2bf58f7fcb31f10ec914a0ed"
+    },
+    {
+      "path": "assets/fonts/Quicksand-SemiBold.ttf",
+      "sha1": "43fdbf795bb0b7cc5b0d3dbcbdef0cdec0f29ca9"
+    }
+  ]
+}
